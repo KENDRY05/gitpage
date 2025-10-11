@@ -15,7 +15,7 @@ Proyecto web con HTML, CSS y JavaScript que presenta una página de inicio, una 
 
 ## 🚀 Publicación
 El sitio está desplegado en **GitHub Pages**:  
-👉 [https://tuusuario.github.io/sitio-vehiculos/](https://tuusuario.github.io/sitio-vehiculos/)
+👉 [https://tuusuario.github.io/sitio-vehiculos/](https://kendry05.github.io/gitpage/)
 
 ---
 
